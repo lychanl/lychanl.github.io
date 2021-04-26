@@ -26,4 +26,4 @@ What does it mean? It means that you can play this game on discord or locally us
 
 And it is already much better than this:
 
-![Screen from testing](images/2021-04-26-discord-text-rpg-testing.png)
+![Screen from testing](/images/2021-04-26-testing.png)
