@@ -26,7 +26,7 @@ The most important added feature are the quests and dialogue mechanics - with a 
 
 And the discord bot configuration is much more powerful - including configuration via the bot itself by server admin or selected role - which brings this project closer to having more publicly avaliable tests.
 
-Finally, a concept of possible ACII-art logo:
+Finally, a concept of an ACII-art logo:
 
 ```
 +-----. .-------. +----.  +----.   .----.
