@@ -4,7 +4,7 @@ title: Drinking tea - discord Text RPG 0.3.0 Release!
 categories: [Discord text RPG]
 ---
 
-The [0.2.0 version](https://github.com/lychanl/discord-text-rpg/releases/tag/v0.2.0) of the discord text RPG is here!
+The [0.3.0 version](https://github.com/lychanl/discord-text-rpg/releases/tag/v0.3.0) of the discord text RPG is here!
 
 This release contains the following features:
 
